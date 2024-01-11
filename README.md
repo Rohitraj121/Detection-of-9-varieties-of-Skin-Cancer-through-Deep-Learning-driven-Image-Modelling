@@ -31,6 +31,8 @@ The deep learning model is built using state-of-the-art architectures tailored f
 
 ## Dependencies
 
+Video link of LIVE DEMO of the app--- "https://clipchamp.com/watch/q3R3J9FPLP0"
+
 To run the code in this repository, you will need the following dependencies:
 
 - Python 3.x
