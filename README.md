@@ -31,7 +31,7 @@ The deep learning model is built using state-of-the-art architectures tailored f
 
 ## Dependencies
 
-Video link of LIVE DEMO of the app--- "https://clipchamp.com/watch/q3R3J9FPLP0"
+Video link of LIVE DEMO of the app--- "https://drive.google.com/file/d/146oR1D-F85hZA8EVcX7GGH_7CVgKTe2b/view?usp=sharing"
 
 To run the code in this repository, you will need the following dependencies:
 
