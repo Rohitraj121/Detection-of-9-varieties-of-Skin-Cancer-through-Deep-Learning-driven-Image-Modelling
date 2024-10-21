@@ -41,7 +41,7 @@ To run the code in this repository, you will need the following dependencies:
 - NumPy
 - Matplotlib
 - scikit-learn
-- [List any additional dependencies]
+  
 
 You can install the required packages using the following command:
 
